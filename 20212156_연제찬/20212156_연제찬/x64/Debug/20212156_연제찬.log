@@ -1,0 +1,78 @@
+﻿  20212156_연제찬View.cpp
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(331,34): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(337,42): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(342,42): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(347,42): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(366,34): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(372,42): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(377,42): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(382,42): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(427,47): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(465,56): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(467,56): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(469,56): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(494,84): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(539,95): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(540,99): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(541,99): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(608,40): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(618,44): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(623,48): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(628,48): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(755,20): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(776,28): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(777,28): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(778,28): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(739,12): warning C4101: 'value' :참조되지 않은 지역 변수입니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(814,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(820,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(825,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(830,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(835,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(888,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(896,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(901,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(906,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(911,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(872,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(872,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(961,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(969,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(974,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(979,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(984,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(945,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(945,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1012,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1012,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1065,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1065,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1393,15): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1407,48): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1408,50): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1441,46): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1442,46): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1444,45): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1448,54): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1449,54): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1450,53): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1452,54): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1453,54): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1454,53): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1456,54): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1457,54): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1458,53): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1611,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1625,69): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1626,61): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1640,68): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1641,18): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1697,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1697,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1805,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1806,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1902,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1909,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1896,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\20212156_연제찬\20212156_연제찬View.cpp(1896,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+  20212156_연제찬.vcxproj -> C:\Users\Yeon Je Chan\Desktop\영상처리 실행파일\20212156_연제찬\x64\Debug\20212156_연제찬.exe
